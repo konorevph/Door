@@ -1,9 +1,0 @@
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\Utils\LitJson\JsonWriter.cs(387,21): warning CS3021: 'JsonWriter.Write(ulong)' does not need a CLSCompliant attribute because the assembly does not have a CLSCompliant attribute
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\PXR_Plugin.cs(2794,17): warning CS0162: Unreachable code detected
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\PXR_Plugin.cs(2802,17): warning CS0162: Unreachable code detected
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\PXR_Plugin.cs(2809,17): warning CS0162: Unreachable code detected
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\PXR_Plugin.cs(2816,17): warning CS0162: Unreachable code detected
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\PXR_Plugin.cs(2076,21): warning CS0219: The variable 'ret' is assigned but its value is never used
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\PXR_Plugin.cs(1393,17): warning CS0162: Unreachable code detected
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\Enterprise\PXR_EnterprisePlugin.cs(1345,13): warning CS0162: Unreachable code detected
-C:\Users\79588\Downloads\PICO Unity Integration SDK_215\Runtime\Scripts\Enterprise\PXR_EnterprisePlugin.cs(1418,13): warning CS0162: Unreachable code detected
